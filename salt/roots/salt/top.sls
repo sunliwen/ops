@@ -5,7 +5,7 @@ base:
     - auto_update
     - users
     - redis.server
-    - mongodb
+    - mongodb_ppa
     - rabbitmq
 
   'salt*':
