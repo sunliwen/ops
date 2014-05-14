@@ -2,7 +2,7 @@ base:
   '*':
     - firewall.base
     - ssh
-    - apt
+    - auto_update
     - users
 
   'salt.intranet':
