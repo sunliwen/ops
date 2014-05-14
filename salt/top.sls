@@ -1,5 +1,0 @@
-base:
-  '*':
-    - supervisord
-    - ssh
-
