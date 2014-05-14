@@ -1,2 +1,2 @@
 minions:
-  - web.intranet
+  - salt.intranet 

@@ -1,5 +1,3 @@
-include:
-  - firewall.base
 
 {% for minion in pillar['minions'] %}
 

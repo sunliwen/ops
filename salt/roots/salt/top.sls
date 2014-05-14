@@ -5,9 +5,7 @@ base:
     - auto_update
     - users
 
-  'salt.intranet':
+  'salt*':
     - firewall.salt-master
-
-  'web.intranet':
     - firewall.http
     - nginx
