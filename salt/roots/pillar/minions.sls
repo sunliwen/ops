@@ -1,2 +1,2 @@
 minions:
-  - nginx01.intranet
+  - web.intranet

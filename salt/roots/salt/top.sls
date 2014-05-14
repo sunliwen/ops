@@ -8,6 +8,6 @@ base:
   'salt.intranet':
     - firewall.salt-master
 
-  'nginx01.intranet':
+  'web.intranet':
     - firewall.http
     - nginx
